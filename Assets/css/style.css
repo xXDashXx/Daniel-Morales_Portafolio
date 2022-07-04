@@ -132,14 +132,40 @@ nav ul li a:hover {
     width: 100%;
     height: 200px;
 }
-.title-card {
+.titleAbautme{    
     text-align: justify;
     font-size: 60px;
     color: white;
     margin-top: 100px;
     margin-bottom: 30px;
+    padding-top: 70px;
+    padding-left: 50px;    
+}
+.container_0{
+    width: 100%;
+    max-width: 100%;
+    height: 500px;
+    background: #cde7f5;
+}
+.Abautmeinfo{
+    text-align: center;
+    font-size: 40px;
+    color: #606163;
+    width: 100%;
+}
+.Abautmeinfo{
+    margin-top: 100px; 
+    padding-top: 120px;
+}
+.title-card {
+    text-align: justify;
+    font-size: 60px;
+    color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
     padding-top: 65px;
     padding-left: 50px;
+    padding-bottom: 55px;
 }
 
 .container {
@@ -155,15 +181,15 @@ nav ul li a:hover {
 }
 
 .container .card {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 8px;
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
     overflow: hidden;
     margin: 20px;
     text-align: center;
     transition: 0.3s;
-    margin-top: 2%;
+    margin-top: 4%;
 }
 
 .container .card:hover {
@@ -175,11 +201,11 @@ nav ul li a:hover {
     width: 100%;
 }
 
-.container .card .card-title {
+/*.container .card .card-title {
     color: #eb7b1f;
     font-size: 16px;
     font-weight: 700;
-}
+}*/
 
 .title-experiences {
     text-align: justify;
